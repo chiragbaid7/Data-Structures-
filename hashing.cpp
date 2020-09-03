@@ -168,7 +168,6 @@ int main()
     h.insert("mahesh", 60);
     h.insert("sanjay", 50);
     h.insert("nikhar", 10);
-    // h["badi massi"]=100;
     int *s = h.search("nikhar");
     if (s == NULL)
     {
